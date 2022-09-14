@@ -1,0 +1,13 @@
+.form-control {
+    margin: 4px 0px 15px 0px;
+}
+
+.form-cadastro {
+    margin-right: 50px;
+}
+
+.error-text {
+    background-color: rgb(252, 146, 146);
+    margin: 10px 0px 10px 0px;
+    padding-left: 10px;
+}
